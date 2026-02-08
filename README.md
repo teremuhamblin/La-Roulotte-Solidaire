@@ -5,7 +5,7 @@ Actions sociales mobiles • Dignité humaine • Entraide de rue
 ━━━━━━━━━━━━━━━━━━━━━━━━━━  
 🚲 La Roulotte Solidaire est une initiative toulousaine engagée auprès des personnes en situation de grande précarité.  
 Nous allons à la rencontre de celles et ceux qui vivent dehors pour offrir :  
-🍲 un repas chaud  
+🍲 distributions de boissons chaudes
 🧼 des produits essentiels  
 💬 une écoute réelle  
 🤝 une présence humaine, sans condition  
@@ -18,7 +18,7 @@ Nous allons à la rencontre de celles et ceux qui vivent dehors pour offrir :
 Aller vers. Écouter. Soutenir. Respecter.
 
 Nous intervenons directement dans l’espace public pour :  
-- 🍲 Distribuer repas et boissons chaudes  
+- 🍲 Distribuer repas et boissons chaudes 
 - 🧼 Fournir kits d’hygiène et produits essentiels  
 - 💬 Offrir écoute active et orientation  
 - 🚲 Maintenir une présence mobile dans les rues de Toulouse  
@@ -41,9 +41,9 @@ Ces valeurs guident chacune de nos actions.
 
 📣 QUI SOMMES-NOUS ?
 
-📍 Une équipe mobile  
+📍 Une équipe statique 
 📍 Des bénévoles engagés  
-📍 Des actions de rue quotidiennes  
+📍 Des actions quotidiennes  
 📍 Une solidarité simple, directe, humaine
 
 ---
@@ -67,7 +67,7 @@ Objectif : transparence, collaboration, efficacité.
 Chaque soir, nous rencontrons des personnes qui vivent dans des conditions difficiles.
 
 2️⃣ Ce que nous apportons :  
-🍲 Repas  
+🍲 Distribution de boissons 
 🧼 Hygiène  
 💬 Écoute  
 🤝 Lien humain
@@ -82,7 +82,7 @@ Chaque soir, nous rencontrons des personnes qui vivent dans des conditions diffi
 🧩 FAQ
 
 ❓ Où intervenez-vous ?  
-➡️ Dans les rues et quartiers de Toulouse.
+➡️ 11 rue laganne 31300 Toulouse.
 
 ❓ Comment aider ?  
 ➡️ Bénévolat, dons, relais, partenariats.
@@ -104,23 +104,6 @@ Votre soutien permet d’agir, chaque soir, auprès de celles et ceux qui en ont
 🔥 Envie d’aider concrètement ?  
 Rejoignez une équipe humaine, mobile, engagée.  
 🚲🍲💬🧼❤️
-
----
-
-🖼️ VERSION VISUELLE (style Facebook encadré)
-
-`
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   LA ROULOTTE SOLIDAIRE
-           TOULOUSE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🍲  Repas chauds
-🧼  Hygiène & essentiels
-💬  Écoute sans jugement
-🤝  Lien humain
-❤️  Dignité & solidarité
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-`
 
 ---
 
